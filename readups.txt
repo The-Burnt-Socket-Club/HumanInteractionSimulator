@@ -1,0 +1,38 @@
+These are all the papers I've been reading to try and understand things further:
+
+Template to follow for materials
+
+1.
+link:
+Status: Not started
+Notes:
+Ideas:
+
+
+# Topology
+
+1. Topography of (exo)planets
+link: https://doi.org/10.1093/mnras/sty3253
+Status: Intro
+Notes: Nicely sized read
+Ideas:
+
+"For the moment, the only way to determine the topography is by statistical models."
+photometry techniques should improve knowledge in the future
+
+"unifying statistical similarity" exist for inner planets in our solar system
+relies on the idea of "mathematical scaling framework called multifractals"
+
+
+2. Orographic effects on precipitating clouds
+link: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2011RG000365
+Status: Not started
+Notes: Big dense read, relates to effect of mountains on precipitation. noice
+Ideas:
+
+
+3. Gravity and Topography of the Terrestial Planets
+link: https://books.google.co.in/books?hl=en&lr=&id=xqxFMGC1gucC&oi=fnd&pg=PA165&dq=research+papers+on+topology+of+planet+surfaces&ots=Dv-ACtay72&sig=ofwMkLmHJvwbfCxUBuciqlIkGVM#v=onepage&q&f=false
+Status: Not started
+Notes: Includes math + some data, pgs 165 onwards
+Ideas:
